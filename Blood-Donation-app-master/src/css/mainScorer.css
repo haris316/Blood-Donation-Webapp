@@ -1,0 +1,42 @@
+#showcase .cscore h1 {
+    font-family: 'Raleway', sans-serif;
+    border-bottom: 1px solid #fff;
+
+}
+
+#showcase .cscore {
+background: #333;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+
+    padding: 20px 30px;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+
+    border-bottom: 1px dotted #fff;
+
+    line-height: 20px;
+}
+
+.dis {
+    word-spacing: 30px;
+}
+
+.dib {
+    text-align: left!important;
+    margin-left: 40px;
+}
+
+.runs {
+    background: pink;
+}
+
+#showcase .cscore .runs {
+    background: blue;
+}
+
+
+.abc{
+    align-self: center!important;
+}
